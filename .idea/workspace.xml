@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bbb7bae-dded-4e90-982c-6639ef177242" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Hello-friend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello-friend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-friend/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello-friend/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-friend/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello-friend/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-friend/src/main/java/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello-friend/src/main/java/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-friend/src/main/java/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello-friend/src/main/java/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-friend/src/main/java/Kitten.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-friend/src/main/java/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello-friend/src/main/java/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-friend/src/main/java/models/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-friend/src/main/resources/templates/layout.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-friend/src/main/resources/templates/task-detail.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-friend/src/main/resources/templates/task-form.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-friend/src/test/java/KittenTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exceptions/src/main/java/another.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exceptions/src/main/java/another.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exceptions/src/main/java/example.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exceptions/src/main/java/example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../final2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final2/src/main/java/inkoko.java" beforeDir="false" afterPath="$PROJECT_DIR$/../final2/src/main/java/inkoko.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../moringaschool/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../moringaschool/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../moringaschool/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../moringaschool/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../moringaschool/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../moringaschool/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../moringaschool/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/../moringaschool/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../moringaschool/src/main/java/app.java" beforeDir="false" afterPath="$PROJECT_DIR$/../moringaschool/src/main/java/app.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pingpong_id/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../pingpong_id/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pingpong_id/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pingpong_id/src/main/java/App.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="arstote" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="arstote" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="arstote" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="arstote" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="arstote" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="arstote" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RJnbXchTq47T9SRm5alU2IkZiA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="arstote.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arstote_a [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="arstote_a [buildNeeded]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildNeeded" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="arstote_a [classes]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="classes" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="arstote_a [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Gradle.arstote_a [assemble]" />
+        <item itemvalue="Gradle.arstote_a [clean]" />
+        <item itemvalue="Gradle.arstote_a [classes]" />
+        <item itemvalue="Gradle.arstote_a [buildNeeded]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bbb7bae-dded-4e90-982c-6639ef177242" name="Default Changelist" comment="" />
+      <created>1569394137280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569394137280</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
